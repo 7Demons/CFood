@@ -3,5 +3,6 @@
         "types.h": "c",
         "file.h": "c",
         "string.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "/Users/jennypuzey/COSC345Project/src"
 }

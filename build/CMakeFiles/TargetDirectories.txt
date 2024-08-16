@@ -1,0 +1,3 @@
+/Users/jennypuzey/COSC345Project/build/CMakeFiles/cfood.dir
+/Users/jennypuzey/COSC345Project/build/CMakeFiles/edit_cache.dir
+/Users/jennypuzey/COSC345Project/build/CMakeFiles/rebuild_cache.dir

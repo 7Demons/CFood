@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/jennypuzey/COSC345Project/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/cfood.dir/main.c.o -c /Users/jennypuzey/COSC345Project/src/main.c",
+  "file": "/Users/jennypuzey/COSC345Project/src/main.c",
+  "output": "CMakeFiles/cfood.dir/main.c.o"
+}
+]
